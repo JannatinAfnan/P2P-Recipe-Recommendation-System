@@ -1,35 +1,22 @@
-# P2P-Recipe-Recommendation-System
-Pantry to Plate (P2P) is a smart recipe recommendation web app built with Python and Streamlit using Object-Oriented Programming principles. Users can search recipes by ingredients, explore nutrition insights, filter meals, and analyze food data through interactive visualizations.
+# 🍽️ Pantry To Plate (P2P)
 
+Pantry To Plate (P2P) is a Streamlit-based web application that helps users discover recipes based on the ingredients they already have at home. Instead of searching for a dish first, users simply enter their available ingredients, and P2P recommends recipes that can be prepared using them.
 
-Features
+For each recommended recipe, the application provides comprehensive information, including:
 
-🔍 Search recipes using available ingredients
+* ⏱️ Preparation and Cooking Time
+* 🌶️ Flavor Profile (e.g., spicy, sweet, savory, tangy)
+* 🥗 Nutritional Information (per serving)
+* 🎥 YouTube Video Tutorial for step-by-step cooking guidance
+* 📊 Macro and Micronutrient Distribution to support informed dietary choices
 
-📚 Browse a complete recipe collection
+### Key Features
 
-🥗 Healthy vs unhealthy recipe categorization
+* Search recipes using available ingredients
+* Explore a complete recipe collection
+* Filter recipes by nutrition and preferences
+* Visualize nutritional insights through interactive charts
+* Built using Object-Oriented Programming (OOP) principles
 
-📊 Nutrition analysis and interactive visualizations
+Pantry To Plate aims to reduce food waste, simplify meal planning, and encourage healthier eating by making the most of the ingredients already available in a user’s pantry.
 
-🎥 Integrated video tutorial support
-
-⚡ Built using Object-Oriented Programming principles
-
-📈 Data analysis with charts and nutritional insights
-
-Tech Stack: Python, Streamlit, Pandas, NumPy, Matplotlib
-
-Project Structure
-
-Home Page
-
-Search Ingredients
-
-Recipe Book
-
-Recipe Detail Page
-
-Analyze Dashboard
-
-About Us
