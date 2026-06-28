@@ -3,12 +3,19 @@ Pantry to Plate (P2P) is a smart recipe recommendation web app built with Python
 
 
 Features
+
 🔍 Search recipes using available ingredients
+
 📚 Browse a complete recipe collection
+
 🥗 Healthy vs unhealthy recipe categorization
+
 📊 Nutrition analysis and interactive visualizations
+
 🎥 Integrated video tutorial support
+
 ⚡ Built using Object-Oriented Programming principles
+
 📈 Data analysis with charts and nutritional insights
 
 Tech Stack
