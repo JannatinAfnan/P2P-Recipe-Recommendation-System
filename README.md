@@ -19,12 +19,19 @@ Features
 📈 Data analysis with charts and nutritional insights
 
 Tech Stack
+
 Python
+
 Streamlit
+
 Pandas
+
 NumPy
+
 Matplotlib
+
 Project Structure
+
 Home Page
 Search Ingredients
 Recipe Book
