@@ -18,33 +18,18 @@ Features
 
 📈 Data analysis with charts and nutritional insights
 
-Tech Stack
-
-Python
-
-Streamlit
-
-Pandas
-
-NumPy
-
-Matplotlib
+Tech Stack: Python, Streamlit, Pandas, NumPy, Matplotlib
 
 Project Structure
 
 Home Page
+
 Search Ingredients
+
 Recipe Book
+
 Recipe Detail Page
+
 Analyze Dashboard
+
 About Us
-Run Locally
-
-
-
-Run the application:
-
-streamlit run pantry2plate.py
-Data Source
-
-Recipe and nutritional data stored in CSV format.
