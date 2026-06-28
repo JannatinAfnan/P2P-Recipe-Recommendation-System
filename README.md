@@ -23,9 +23,7 @@ Analyze Dashboard
 About Us
 Run Locally
 
-Install dependencies:
 
-pip install -r requirements.txt
 
 Run the application:
 
